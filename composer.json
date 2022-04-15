@@ -3,5 +3,13 @@
     "description": "Test",
     "type": "bundle",
     "license": "mit",
-    "require": {}
-}
+    "require": {},
+    "extra": {
+        "symfony": {
+            "endpoint": [
+                "https://api.github.com/repos/aterrien/flex/contents/index.json",
+                "flex://defaults"
+            ]
+        }
+    }
+},
