@@ -1,0 +1,7 @@
+{
+    "name": "aterrien/test-bundle",
+    "description": "Test",
+    "type": "bundle",
+    "license": "mit",
+    "require": {}
+}
